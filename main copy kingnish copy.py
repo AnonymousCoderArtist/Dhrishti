@@ -121,7 +121,7 @@ def get_gmail_service():
         typer.secho(f'An error occurred with Gmail authentication: {error}', fg=typer.colors.RED); return None
 
 def send_gmail_message(recipient_name: str, subject: str, message_text: str) -> str:
-    email_contact_map = {"papa": "dusmantadavvis@gmail.com", "mom": "mom@example.com"}
+    email_contact_map = {"papa": "papa@gmail.com", "mom": "mom@example.com"}
     recipient_email = email_contact_map.get(recipient_name.lower())
     if not recipient_email: return f"Error: Contact '{recipient_name}' not found."
     try:
