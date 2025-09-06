@@ -183,7 +183,7 @@ def send_gmail_message(recipient_name: str, subject: str, message_text: str) -> 
     """
     # Contact mapping for Gmail
     email_contact_map = {
-        "papa": "dusmantadavvis@gmail.com",  # Replace with actual email
+        "papa": "papa@gmail.com",  # Replace with actual email
         "mom": "mom@example.com",    # Replace with actual email
         # Add more contacts here
     }
