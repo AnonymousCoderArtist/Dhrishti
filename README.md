@@ -23,6 +23,11 @@ Drishti (meaning “vision” in Hindi) is an accessible AI assistant designed t
 - Privacy-aware: Secrets and tokens ignored by version control; local audio generation and cleanup
 - Practical and affordable: Built on widely available tooling and services with simple setup
 
+<div align="center">
+    <img src="https://github.com/AnonymousCoderArtist/Dhrishti/blob/main/ceed85a6-63d0-47c4-a36f-4053dcbc668e.jpg"/>
+    <h1>Flow Chart</h1>
+</div>
+
 ---
 
 ## Highlights
