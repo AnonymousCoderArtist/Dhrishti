@@ -6,6 +6,25 @@ Drishti (meaning “vision” in Hindi) is an accessible AI assistant designed t
 
 ---
 
+## Why This Matters
+- Current reality: Many blind and visually impaired users face barriers in independently using mainstream computers and applications. Screen readers are powerful but can be slow, verbose, and struggle with dynamic or poorly labeled interfaces. Visual context such as images, charts, and on-screen states often remains inaccessible.
+- Scale of the challenge: Global estimates indicate that more than two billion people live with some form of vision impairment, with hundreds of millions experiencing moderate-to-severe vision loss. A significant portion of this population encounters daily barriers in education, employment, and digital communication.
+- Gaps today:
+  - Complex, dynamic UIs are difficult to navigate solely through keyboard and screen readers
+  - Visual-only content (images, PDFs, unlabeled buttons) lacks accessible descriptions
+  - Fragmented workflows across messaging, email, browsing, and utilities
+  - Cost, language support, and connectivity constraints limit access to advanced tools
+
+### How Drishti Helps
+- Multimodal understanding: Describes the screen and webcam view on demand, making visual context accessible in plain language
+- Voice-first control: Hands-free interaction for speed and ease
+- Unified assistant: Email, WhatsApp, web search, and on-screen descriptions from one place
+- Safety and clarity: Confirmation for sensitive actions; concise and direct responses tailored for screen readers
+- Privacy-aware: Secrets and tokens ignored by version control; local audio generation and cleanup
+- Practical and affordable: Built on widely available tooling and services with simple setup
+
+---
+
 ## Highlights
 - Built for HackOdisha 5.0 with a strong focus on accessibility and independence
 - End-to-end workflow: Voice in → Intelligent actions → Voice out
